@@ -8,9 +8,3 @@
 - 📚 I’m currently learning to use **Express**, **TypeScript** and some JS **Framework (Nuxt, React)** and **Libs (TreeJs, MUI)**.
 
 ## My Portfolio <img src="https://cdn3.emoji.gg/emojis/1261-hackerbongocat.gif" width="30">
-
-<style>
- html{
-  background:red;
- }
-</style>
