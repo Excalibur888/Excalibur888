@@ -2,9 +2,9 @@
 
  ![Profile Visits](https://komarev.com/ghpvc/?username=Excalibur888&style=for-the-badge&label=visits&color=blueviolet)
 
-## About me <img src="https://cdn3.emoji.gg/emojis/1261-hackerbongocat.gif)](https://emoji.gg/emoji/1261-hackerbongocat" width="30">
+## About me <img src="https://cdn3.emoji.gg/emojis/1261-hackerbongocat.gif" width="30">
 
 - 🧑🏻‍💻 I’m currently working on </a href="https://osintukraine.com">**osintukraine.com UI/UX**</a>, </a href="https://dumond.dev">**dumond.dev Phone UI**</a>, 
 - 📚 I’m currently learning to use **Express**, **TypeScript** and some JS **Framework (Nuxt, React)** and **Libs (TreeJs, MUI)**.
 
-## My Portfolio <img src="https://cdn3.emoji.gg/emojis/1261-hackerbongocat.gif)](https://emoji.gg/emoji/1261-hackerbongocat" width="30">
+## My Portfolio <img src="https://cdn3.emoji.gg/emojis/1261-hackerbongocat.gif" width="30">
