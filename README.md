@@ -53,7 +53,7 @@
 <br>
 
 # <img src="https://cdn3.emoji.gg/emojis/4014-typingpeped.gif" width="30px"> Contact Me
-<a href="https://discordapp.com/channels/@me/591525540356292608/" target="_blank"><img alt="Discord" src="https://img.shields.io/badge/discord-%237289DA.svg?style=for-the-badge&logo=discord&logoColor=white"></a>
+<a href="https://discordapp.com/users/591525540356292608/" target="_blank"><img alt="Discord" src="https://img.shields.io/badge/discord-%237289DA.svg?style=for-the-badge&logo=discord&logoColor=white"></a>
 <a href="https://www.linkedin.com/in/dumond-arthur/" target="_blank"><img alt="LinkedIn" src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white"></a>
 <a href="mailto: dumond@et.esiea.fr"><img alt="Mail" src="https://img.shields.io/badge/Mail-D14836?style=for-the-badge&logo=gmail&logoColor=white"></a>
 
