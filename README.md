@@ -2,17 +2,22 @@
 
 ![Profile Visits](https://komarev.com/ghpvc/?username=Excalibur888&style=for-the-badge&label=visits&color=blueviolet)
 ### I'm Arthur, a 17yo French 🇫🇷 student at [ESIEA](https://esiea.fr).
+<br>
+<br>
 
 ## <img src="https://cdn3.emoji.gg/emojis/1261-hackerbongocat.gif" width="30"> About me :
 
 - 🧑🏻‍💻 I’m currently working on [**osintukraine.com UI/UX**](https://osintukraine.com), [**dumond.dev Phone UI**](https://dumond.dev). 
 - 📚 I’m currently learning to use **Express**, **TypeScript** and some JS **Framework (Nuxt, React)** and **Libs (TreeJs, MUI)**.
 - 💙 I'm passionate about web design, development, cybersecurity and osint, technology and innovation in general !
+<br>
+<br>
 
 ## <img src="https://cdn3.emoji.gg/emojis/2219-what.gif" width="30"> My Portfolio :
-
 <img src="https://user-images.githubusercontent.com/51988264/201673141-6bc7d2ca-8fd7-46ae-b95b-c3271faf471a.png" width="600"></img> 
 ### Visit it at [DUMOND.DEV](https://dumond.dev) !
+<br>
+<br>
 
 ## <img src="https://cdn3.emoji.gg/emojis/YoshiHammer.gif" width="30px"> Tools I Use :
 <h3>IDEs :</h3>
@@ -25,7 +30,6 @@
   <img alt="Arduino" src="https://img.shields.io/badge/-Arduino-00979D?style=for-the-badge&logo=Arduino&logoColor=white">
 </span>
 <br>
-<br>
 <h3>Languages :</h3>
 <span>
 <img alt="C" src="https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white">
@@ -37,7 +41,6 @@
 <img alt="PHP" src="https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white">
 <img alt="Markdown" src="https://img.shields.io/badge/markdown-%23000000.svg?style=for-the-badge&logo=markdown&logoColor=white">
 </span>
-<br>
 <br>
 <h3>Operating Systems :</h3>
 <span>
