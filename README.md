@@ -15,5 +15,5 @@
 Visit it at [DUMOND.DEV](https://dumond.dev) !
 
 <details>
-  <summary>## <img src="https://cdn3.emoji.gg/emojis/YoshiHammer.gif" width="30px"> Tools I Use :</summary>
+  <summary><h2><img src="https://cdn3.emoji.gg/emojis/YoshiHammer.gif" width="30px"> Tools I Use :</h2></summary>
 </details>
