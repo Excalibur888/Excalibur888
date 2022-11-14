@@ -3,9 +3,10 @@
 ![Profile Visits](https://komarev.com/ghpvc/?username=Excalibur888&style=for-the-badge&label=visits&color=blueviolet)
 ### I'm Arthur, a 17yo french 🇫🇷 student at [ESIEA](https://esiea.fr)
 
-## About me <img src="https://cdn3.emoji.gg/emojis/1261-hackerbongocat.gif" width="30">
+## <img src="https://cdn3.emoji.gg/emojis/1261-hackerbongocat.gif" width="30"> About me :
 
 - 🧑🏻‍💻 I’m currently working on [**osintukraine.com UI/UX**](https://osintukraine.com), [**dumond.dev Phone UI**](https://dumond.dev). 
 - 📚 I’m currently learning to use **Express**, **TypeScript** and some JS **Framework (Nuxt, React)** and **Libs (TreeJs, MUI)**.
+- 💙 I'm passionate about web design, development, cybersecurity and osint, technology and innovation in general !
 
-## My Portfolio <img src="https://cdn3.emoji.gg/emojis/1261-hackerbongocat.gif" width="30">
+## <img src="https://cdn3.emoji.gg/emojis/2219-what.gif" width="30"> My Portfolio :
