@@ -15,7 +15,7 @@
 ### Visit it at [DUMOND.DEV](https://dumond.dev) !
 
 ## <img src="https://cdn3.emoji.gg/emojis/YoshiHammer.gif" width="30px"> Tools I Use :
-### IDEs :
+<h3>IDEs :</h3>
 <span>
    <img alt="WebStorm" src="https://img.shields.io/badge/webstorm-143?style=for-the-badge&logo=webstorm&logoColor=white&color=black&labelColor=blue">
   <img alt="PhpStorm" src="https://img.shields.io/badge/phpstorm-143?style=for-the-badge&logo=phpstorm&logoColor=white&color=black&labelColor=blueviolet">
@@ -26,7 +26,7 @@
 </span>
 <br>
 <br>
-### Languages :
+<h3>Languages :</h3>
 <span>
 <img alt="C" src="https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white">
 <img alt="C++" src="https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white">
@@ -39,7 +39,7 @@
 </span>
 <br>
 <br>
-### Operating Systems :
+<h3>Operating Systems :</h3>
 <span>
 <img alt="Windows" src="https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white">
 <img alt="macOS" src="https://img.shields.io/badge/Mac%20OS-000000?style=for-the-badge&logo=apple&logoColor=white">
