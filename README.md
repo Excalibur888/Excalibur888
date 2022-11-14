@@ -11,7 +11,7 @@
 
 ## <img src="https://cdn3.emoji.gg/emojis/2219-what.gif" width="30"> My Portfolio :
 
-<img src="https://user-images.githubusercontent.com/51988264/201673141-6bc7d2ca-8fd7-46ae-b95b-c3271faf471a.png" width="600"> 
+<img src="https://user-images.githubusercontent.com/51988264/201673141-6bc7d2ca-8fd7-46ae-b95b-c3271faf471a.png" width="600"></img> 
 ### Visit it at [DUMOND.DEV](https://dumond.dev) !
 
 <details>
