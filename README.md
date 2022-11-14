@@ -14,4 +14,6 @@
 <img width="600" alt="image" src="https://user-images.githubusercontent.com/51988264/201673141-6bc7d2ca-8fd7-46ae-b95b-c3271faf471a.png">
 Visit it at [DUMOND.DEV](https://dumond.dev) !
 
-## BLABLA
+<details>
+  <summary>## <img src="https://cdn3.emoji.gg/emojis/YoshiHammer.gif" width="30px"> Tools I Use :</summary>
+</details>
