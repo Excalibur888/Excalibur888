@@ -58,3 +58,7 @@
 <a href="https://discordapp.com/users/591525540356292608/" target="_blank"><img alt="Discord" src="https://img.shields.io/badge/discord-%237289DA.svg?style=for-the-badge&logo=discord&logoColor=white"></a>
 <a href="https://www.linkedin.com/in/dumond-arthur/" target="_blank"><img alt="LinkedIn" src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white"></a>
 <a href="mailto: dumond@et.esiea.fr"><img alt="Mail" src="https://img.shields.io/badge/Mail-D14836?style=for-the-badge&logo=gmail&logoColor=white"></a>
+
+
+Vous savez, moi je ne crois pas qu’il y ait de bonne ou de mauvaise compilation. Moi, si je devais résumer mon code aujourd’hui avec vous, je dirais que c’est d’abord des segfaults. Des NULL qui m’ont tendu la main, peut-être à un moment où je ne !pouvais, où j’étais seul chez moi. Et c’est assez curieux de se dire que les Math.random(), les undefined forgent une destinée... Parce que quand on a le goût du code, quand on a le goût de l’optimisation, le beau geste, parfois on ne trouve pas le pointeur en face je dirais, le debug qui vous aide à avancer...
+
