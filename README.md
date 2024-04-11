@@ -1,7 +1,7 @@
 # Hi there <img src="https://user-images.githubusercontent.com/42378118/110234147-e3259600-7f4e-11eb-95be-0c4047144dea.gif" width="30">
 
 ![Profile Visits](https://komarev.com/ghpvc/?username=Excalibur888&style=for-the-badge&label=visits&color=blueviolet)
-### I'm Arthur, a 17yo French 🇫🇷 student at [ESIEA](https://esiea.fr).
+### I'm Arthur, a 19yo French 🇫🇷 student at [ESIEA](https://esiea.fr).
 
 
 ## <img src="https://cdn3.emoji.gg/emojis/1261-hackerbongocat.gif" width="30"> About me :
