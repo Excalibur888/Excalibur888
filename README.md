@@ -6,7 +6,7 @@
 
 ## <img src="https://cdn3.emoji.gg/emojis/1261-hackerbongocat.gif" width="30"> About me :
 
-- 🧑🏻‍💻 I’m currently working on [**a rocket flight controller**](https://https://versaflight.space/). 
+- 🧑🏻‍💻 I’m currently working on [**a rocket flight controller**](https://versaflight.space/). 
 - 💙 I'm passionate about web design, development, cybersecurity and osint, embedded systems, technology and innovation in general !
 
 
